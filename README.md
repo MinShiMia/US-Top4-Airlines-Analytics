@@ -17,6 +17,7 @@ The airline industry is all about transporting people and cargo by air. Airlines
 Dominant Players: The Big Four and Beyond
 
 ### The Big Four:
+![Flowchart](https://MinShiMia.github.io/Big-Data-Project/BigDataProjectFlowchart.png)
 ![Figure 1 Market Share of Top 8 Airlines and Others during 2002-2023](https://MinShiMia.github.io/US-Top4-Airlines-Analytics/Top8Airlines.png)
 
 •	As highlighted in Figure 1, American Airlines, Delta Air Lines, United Airlines, and Southwest Airlines are the undisputed leaders in the US market.
