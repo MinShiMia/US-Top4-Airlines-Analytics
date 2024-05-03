@@ -180,7 +180,7 @@ This is the bread and butter of airline revenue, typically accounting for the la
 Consistent passenger revenue growth is crucial for airlines to cover operational costs, invest in new aircraft, and generate profits. Fluctuations in passenger demand can significantly impact airlines' financial stability.
 
 Figure 7 US Top 4 Airlines’ Passenger Transportation Revenue during 2002-2023
-![Figure 7](https://MinShiMia.github.io/US-Top4-Airlines-Analytics/Tables_Figures/Top4_Trans_Rev.png)
+![Figure 7](https://MinShiMia.github.io/US-Top4-Airlines-Analytics/Tables_Figures/Top4_PassRev.png)
 
 
 Based on Figure 7, we could detect: 
@@ -235,6 +235,7 @@ Although Southwest has relatively lower total and subcategory revenues compared 
 
 Since passenger transportation revenue is the most important component of total revenue, we divide the top 4 airlines’ passenger transportation revenue by regions and the results is shown in Figure 10. It is evident that Southwest operates solely in domestic and local regions, whereas the other top three airlines also serve across-Atlantic and across-Pacific regions. Despite focusing exclusively on the domestic market, Southwest's total passenger transportation revenue ranks third, closely trailing American Airlines and Delta Airlines.
 
+Figure 10 US Top 4 Airlines’ Total Passenger Transportation Revenue by region during 2002-2023
 ![Figure10](https://MinShiMia.github.io/US-Top4-Airlines-Analytics/Tables_Figures/Tran_Rev_PAX_carr_region.png)
 
 # V. Top 4 Airlines Operating Expense Analysis
