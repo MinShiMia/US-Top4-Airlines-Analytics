@@ -90,13 +90,13 @@ Operating profit or loss is the profit or loss from core business operations, ex
 ![Figure 4](https://minshimia.github.io/US-Top4-Airlines-Analytics/Tables_Figures/Top4_Ope_Pro_Per_Airline.png)
 
 As shown in [Figure 4](https://minshimia.github.io/US-Top4-Airlines-Analytics/Tables_Figures/Top4_Ope_Pro_Per_Airline.png), the trends for US top 4 airlines are similar. Among the top 4 airlines, Delta Air Lines emerged as the most profitable airline between 2011 and 2019 due to a combination of strategic initiatives and operational efficiencies:
-•	Fuel Hedging: Delta’s acquisition of an oil refinery in 2012 helped manage volatile fuel costs more effectively than competitors.
-•	Fleet Modernization: Upgrading to newer, more fuel-efficient aircraft reduced maintenance and operational costs.
-•	Operational Excellence: High performance in on-time arrivals, customer satisfaction, and baggage handling enhanced brand reputation and reduced costs.
-•	Customer Service and Brand Loyalty: Investments in in-flight experiences and loyalty programs enhanced customer retention.
-•	Strategic Partnerships: Joint ventures with international carriers expanded Delta’s global network and market reach.
-•	Cost Discipline: Despite growth investments, Delta maintained strict control over operating expenses.
-•	Economic Recovery Leverage: Capitalizing on the post-recession recovery in travel demand, Delta expanded services in key markets.
+- Fuel Hedging: Delta’s acquisition of an oil refinery in 2012 helped manage volatile fuel costs more effectively than competitors.
+- Fleet Modernization: Upgrading to newer, more fuel-efficient aircraft reduced maintenance and operational costs.
+- Operational Excellence: High performance in on-time arrivals, customer satisfaction, and baggage handling enhanced brand reputation and reduced costs.
+- Customer Service and Brand Loyalty: Investments in in-flight experiences and loyalty programs enhanced customer retention.
+- Strategic Partnerships: Joint ventures with international carriers expanded Delta’s global network and market reach.
+- Cost Discipline: Despite growth investments, Delta maintained strict control over operating expenses.
+- Economic Recovery Leverage: Capitalizing on the post-recession recovery in travel demand, Delta expanded services in key markets.
 These strategies collectively contributed to Delta’s profitability, distinguishing it in the airline industry throughout the period.
 
 ### Total Operating Profit or Loss by Airline and Region
@@ -109,8 +109,6 @@ Southwest is the second most profitable airline, operating solely in domestic an
 United Airlines ranks third in profitability, with the most substantial earnings from Atlantic routes. It also profits from domestic and Pacific operations but incurs some losses in local flights.
 
 American Airlines, meanwhile, is the least profitable among the top four, with overall negative profits. Specifically, it faces substantial losses in domestic operations and also records losses in Pacific and Atlantic routes. Its only profit comes from local flights.
-
-![image](https://github.com/MinShiMia/US-Top4-Airlines-Analytics/assets/65604919/6734db29-c259-47ac-909b-578bef085fa3)
 
 
 
