@@ -17,7 +17,7 @@ The airline industry is all about transporting people and cargo by air. Airlines
 Dominant Players: The Big Four and Beyond
 
 ### The Big Four:
-![Figure 1 Market Share of Top 8 Airlines and Others during 2002-2023](https://minshimia.github.io/US-Top4-Airlines-Analytics/Tables_Figures/Top8Airlines.png)
+![Figure 1 Market Share of Top 8 Airlines and Others during 2002-2023](https://MinShiMia.github.io/US-Top4-Airlines-Analytics/Tables_Figures/Top8Airlines.png)
 
 •	As highlighted in Figure 1, American Airlines, Delta Air Lines, United Airlines, and Southwest Airlines are the undisputed leaders in the US market.
 
@@ -25,7 +25,7 @@ Dominant Players: The Big Four and Beyond
 
 •	Each has a distinct niche: American focuses on a global network, Delta prioritizes customer service, United emphasizes efficiency, and Southwest is known for its low-cost model.
 
-![Table 1](https://minshimia.github.io/US-Top4-Airlines-Analytics/Tables_Figures/Table1.png)
+![Table 1](https://MinShiMia.github.io/US-Top4-Airlines-Analytics/Tables_Figures/Table1.png)
 
 ### Beyond the Big Four: 
 The pie chart in Figure 1 shows the significant presence of other players (30% market share). 
@@ -71,7 +71,7 @@ Net income represents the total profit or loss after all expenses, including tax
 #### Net Income Over Years by Airline
 Over the past 20 years, the top four airlines have experienced periods of negative or low net income, notably during the 2008 financial crisis and the COVID-19 pandemic, as shown in Figure 2.
 
-![Figure 2 Net Income of Top 4 Airlines by Year during 2002-2023!](https://minshimia.github.io/US-Top4-Airlines-Analytics/Tables_Figures/Top4_NetInc.png)
+![Figure 2 Net Income of Top 4 Airlines by Year during 2002-2023!](https://MinShiMia.github.io/US-Top4-Airlines-Analytics/Tables_Figures/Top4_NetInc.png)
 
 ***American Airlines' Financial Challenges:***
 Specifically, American Airlines displayed net income around zero or below from 2002 to 2014. This can be attributed not only to general economic downturns but also to high debt levels and the airline's bankruptcy and restructuring in 2011. Historically, American Airlines faced higher labor costs compared to its peers, and it was among the few that had not renegotiated labor agreements post-9/11, leading to a burdensome cost structure. Operational inefficiencies, including flight delays and poor customer service, further eroded its profitability. However, post-merger with US Airways in 2013, its financial situation showed signs of improvement.
@@ -97,13 +97,13 @@ Unlike its peers, ***Southwest*** primarily focuses on domestic routes and its n
 
 Lastly, ***United Airlines*** has recorded positive net income only from its flights across the Atlantic, while facing losses in domestic, local, and Pacific operations. However, it is worth mentioning that United earns the most from its across-Atlantic Ocean flights among the top four airlines.
 
-![Figure 3 US Top 4 Airlines’ Total Net Income by Region from 2002 to 2023](https://minshimia.github.io/US-Top4-Airlines-Analytics/Tables_Figures/TotNetInc_carr_region.png)
+![Figure 3 US Top 4 Airlines’ Total Net Income by Region from 2002 to 2023](https://MinShiMia.github.io/US-Top4-Airlines-Analytics/Tables_Figures/TotNetInc_carr_region.png)
 
 ### Operating Profit or Loss Analysis
 Operating profit or loss is the profit or loss from core business operations, excluding investments, taxes, or interest expenses. 
 
 #### Operating Profit or Loss Over Years by Airline
-![Figure 4](https://minshimia.github.io/US-Top4-Airlines-Analytics/Tables_Figures/Top4_Ope_Pro_Per_Airline.png)
+![Figure 4](https://MinShiMia.github.io/US-Top4-Airlines-Analytics/Tables_Figures/Top4_Ope_Pro_Per_Airline.png)
 
 As shown in Figure 4, the trends for US top 4 airlines are similar. Among the top 4 airlines, Delta Air Lines emerged as the most profitable airline between 2011 and 2019 due to a combination of strategic initiatives and operational efficiencies:
 
@@ -123,7 +123,7 @@ As shown in Figure 4, the trends for US top 4 airlines are similar. Among the to
 These strategies collectively contributed to Delta’s profitability, distinguishing it in the airline industry throughout the period.
 
 ### Total Operating Profit or Loss by Airline and Region
-![Figure 5 US Top 4 Airlines’ Total Operating Profit/Loss by Region from 2002 to 2023](https://minshimia.github.io/US-Top4-Airlines-Analytics/Tables_Figures/TotOpePro_carr_region.png)
+![Figure 5 US Top 4 Airlines’ Total Operating Profit/Loss by Region from 2002 to 2023](https://MinShiMia.github.io/US-Top4-Airlines-Analytics/Tables_Figures/TotOpePro_carr_region.png)
  
 Based on Figure 5, it is evident that Delta Air Lines has been the most profitable airline over the past twenty years, achieving higher earnings relative to costs in all four regions: domestic, local, across the Pacific, and across the Atlantic. Among these regions, Delta generated the highest profits from domestic operations, followed by the Atlantic, Pacific, and local flights.
 
