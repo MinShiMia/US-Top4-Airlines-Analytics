@@ -17,8 +17,7 @@ The airline industry is all about transporting people and cargo by air. Airlines
 Dominant Players: The Big Four and Beyond
 
 ### The Big Four:
-![Flowchart](https://MinShiMia.github.io/Big-Data-Project/BigDataProjectFlowchart.png)
-![Figure 1 Market Share of Top 8 Airlines and Others during 2002-2023](https://MinShiMia.github.io/US-Top4-Airlines-Analytics/Top8Airlines.png)
+![Figure 1 Market Share of Top 8 Airlines and Others during 2002-2023](https://MinShiMia.github.io/Tables_Figures/US-Top4-Airlines-Analytics/Top8Airlines.png)
 
 •	As highlighted in Figure 1, American Airlines, Delta Air Lines, United Airlines, and Southwest Airlines are the undisputed leaders in the US market.
 
@@ -26,7 +25,7 @@ Dominant Players: The Big Four and Beyond
 
 •	Each has a distinct niche: American focuses on a global network, Delta prioritizes customer service, United emphasizes efficiency, and Southwest is known for its low-cost model.
 
-![Table 1](https://MinShiMia.github.io/US-Top4-Airlines-Analytics/Table1.png)
+![Table 1](https://MinShiMia.github.io/US-Top4-Airlines-Analytics/Tables_Figures/Table1.png)
 
 ### Beyond the Big Four: 
 The pie chart in Figure 1 shows the significant presence of other players (30% market share). 
@@ -72,7 +71,7 @@ Net income represents the total profit or loss after all expenses, including tax
 #### Net Income Over Years by Airline
 Over the past 20 years, the top four airlines have experienced periods of negative or low net income, notably during the 2008 financial crisis and the COVID-19 pandemic, as shown in Figure 2.
 
-![Figure 2 Net Income of Top 4 Airlines by Year during 2002-2023](https://MinShiMia.github.io/US-Top4-Airlines-Analytics/Top4_NetInc.png)
+![Figure 2 Net Income of Top 4 Airlines by Year during 2002-2023](https://MinShiMia.github.io/US-Top4-Airlines-Analytics/Tables_Figures/Top4_NetInc.png)
 
 ***American Airlines' Financial Challenges:***
 Specifically, American Airlines displayed net income around zero or below from 2002 to 2014. This can be attributed not only to general economic downturns but also to high debt levels and the airline's bankruptcy and restructuring in 2011. Historically, American Airlines faced higher labor costs compared to its peers, and it was among the few that had not renegotiated labor agreements post-9/11, leading to a burdensome cost structure. Operational inefficiencies, including flight delays and poor customer service, further eroded its profitability. However, post-merger with US Airways in 2013, its financial situation showed signs of improvement.
